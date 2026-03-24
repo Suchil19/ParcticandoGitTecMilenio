@@ -26,4 +26,5 @@ git clone [https://github.com/usuario/nombre-del-proyecto.git](https://github.co
 - git commit
 - git branch gh-pages
 - git checkout gh-pages
+- git remote add origin https://github.com....
 - git push origin
